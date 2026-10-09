@@ -1,19 +1,26 @@
-# Design and code references
+# Design, code and media references
 
-This local preview extends Magic Portfolio by Once UI, under the existing LICENSE (CC BY-NC 4.0). The visible Once UI attribution is retained.
+Personal Homepage Studio is a modified derivative of **Magic Portfolio by the Once UI team**, under **CC BY-NC 4.0**. Attribution is available from the website footer's “项目说明” (Project credits) link at `/credits/`, and retained in this document and LICENSE.
 
-- Overall shell and primitives: https://github.com/once-ui-system/magic-portfolio
-- Sketch branch-growth approach: https://github.com/antfu/antfu.me/blob/main/src/components/ArtPlum.vue
-- Twelve-cell cursor trail approach: https://github.com/Ladvace/astro-bento-portfolio/blob/master/src/lib/card-grids.ts
-- Photography typography reference: https://github.com/Cosmic-Themes/horizon (Playfair Display)
-- Bundled example photography: Lorant, https://lorant.one, from the Magic Portfolio template. Replace with the site owner's images for publication.
-- All visible Chinese sample articles and project descriptions are new preview copy, not the user's actual biography or work.
+Changes include a chronological journal, photography typography and layout, project detail pages, sketch background, grid cursor trail, a local content editor, content backups, Windows/macOS launchers and GitHub Pages publishing. The original branding line in the footer was replaced with a link to the credit page.
 
-## MIT-licensed reference code
+- Magic Portfolio: https://github.com/once-ui-system/magic-portfolio — CC BY-NC 4.0, https://creativecommons.org/licenses/by-nc/4.0/legalcode . Non-commercial use only unless separately authorized by the upstream rightsholder.
+- Once UI component library (`@once-ui-system/core` 1.5.6): https://github.com/once-ui-system/core — MIT. Copyright (c) 2024-2025 Once UI.
+- Anthony Fu's journal and sketch branch-growth approach: https://antfu.me and https://github.com/antfu/antfu.me/blob/main/src/components/ArtPlum.vue — reference code under MIT.
+- Astro Bento Portfolio's twelve-cell cursor trail approach: https://github.com/Ladvace/astro-bento-portfolio/blob/master/src/lib/card-grids.ts — reference code under MIT.
+- Photography typography inspiration: https://github.com/Cosmic-Themes/horizon . The project uses Playfair Display through next/font; no Horizon template code is included.
+- Bundled example photography: Lorant, https://lorant.one, provided in the Magic Portfolio template. It is sample material, not photography by the current site owner; retain its credit while in use and replace it with your own images for a personal portfolio. No independent license beyond the upstream distribution is asserted here.
+- Fonts: Geist / Geist Mono by Vercel and Playfair Display by Claus Eggers Sørensen, distributed under the SIL Open Font License through Google Fonts and next/font.
+- All visible Chinese sample articles and project descriptions are original sample copy, not the user's actual biography or work.
+- Articles and photographs later supplied by a site owner retain their respective authors' rights; the template does not relicense them.
+
+## MIT notices for referenced code and Once UI
 
 Copyright (c) 2020-2021 Anthony Fu
 
 Copyright (c) 2024 Gianmarco Cavallo and others
+
+Copyright (c) 2024-2025 Once UI
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
