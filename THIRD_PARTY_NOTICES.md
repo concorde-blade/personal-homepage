@@ -13,6 +13,7 @@ Changes include a chronological journal, photography typography and layout, proj
 - Fonts: Geist / Geist Mono by Vercel and Playfair Display by Claus Eggers Sørensen, distributed under the SIL Open Font License through Google Fonts and next/font.
 - All visible Chinese sample articles and project descriptions are original sample copy, not the user's actual biography or work.
 - Articles and photographs later supplied by a site owner retain their respective authors' rights; the template does not relicense them.
+- Personal website icon: “An astronaut standing on top of a red planet” by summertime flag, https://unsplash.com/illustrations/an-astronaut-standing-on-top-of-a-red-planet--cYcR3F_J7M . The source page identifies the illustration as Unsplash+ content. The site owner supplied the screenshot used here; it was cropped and resized with its existing watermarks retained. This third-party image is not relicensed under the project's code license.
 
 ## MIT notices for referenced code and Once UI
 
